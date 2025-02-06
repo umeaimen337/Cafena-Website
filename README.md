@@ -1,4 +1,4 @@
-# ☕ Cafena Coffee Shop Website
+# ☕ Cafena Website
 
 A modern, responsive coffee shop website design built with HTML, CSS, and JavaScript.
 
